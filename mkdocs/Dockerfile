@@ -1,0 +1,8 @@
+FROM alpine
+MAINTAINER Pascal Reeb <pascal at reeb dot io>
+
+RUN apk add --update \
+    python \
+    py-pip
+RUN pip install mkdocs
+RUN rm -rf /var/cache/apk/*
