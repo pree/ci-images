@@ -7,4 +7,5 @@ All Containers are automatically build by Docker Hub.
 [`schizopriest/latex`](https://hub.docker.com/r/schizopriest/latex) Build latex documents (includes biber)  
 [`schizopriest/awscli`](https://hub.docker.com/r/schizopriest/awscli) awscli alpine container  
 [`schizopriest/mkdocs`](https://hub.docker.com/r/schizopriest/mkdocs) mkdocs alpine container  
-[`schizopriest/aglio`](https://hub.docker.com/r/schizopriest/aglio) aglio alpine container
+[`schizopriest/aglio`](https://hub.docker.com/r/schizopriest/aglio) aglio alpine container  
+[`schizopriest/pandoc`](https://hub.docker.com/r/schizopriest/pandoc) Build pandoc pandoc documents

@@ -5,4 +5,5 @@ RUN apk add --update \
     python \
     py-pip
 RUN pip install mkdocs
+RUN pip install mkdocs-pandoc
 RUN rm -rf /var/cache/apk/*
