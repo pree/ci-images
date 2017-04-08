@@ -1,0 +1,3 @@
+[submodule "drone-rsync"]
+	path = drone-rsync
+	url = https://github.com/Schizopriest/drone-rsync
